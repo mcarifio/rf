@@ -1,0 +1,19 @@
+{
+  "name": "rf",
+  "version": "0.0.1",
+  "description": "read file in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcarifio/rf.git"
+  },
+  "author": "Mike Carifio <mike@carif.io> (http://mike.carif.io/)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/mcarifio/rf/issues"
+  },
+  "homepage": "https://github.com/mcarifio/rf#readme"
+}
